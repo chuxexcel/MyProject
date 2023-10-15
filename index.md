@@ -13,6 +13,7 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 
 Here's some words about the book _One Hundred Years..._.
 [Search for it.](www.google.com)
+
 [You're **really, really** going to want to see this.](www.dailykitten.com)
 #### The Latest News from [the BBC](www.bbc.com/news)
 Do you want to [see something fun][a fun place]?
@@ -43,6 +44,7 @@ I read this interesting quote the other day:
 * Flour
 * Cheese
 * Tomatoes
+
 1. Cut the cheese 
 2. Slice the tomatoes 
 3. Rub the tomatoes in flour
